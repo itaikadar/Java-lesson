@@ -3,6 +3,8 @@ public class Kadar {
         String name="itai kadar";
         System.out.println("my name is " + name);
         System.out.println("my name is " + name);
+        System.out.println("my name is " + name);
+
     }
 
 }
